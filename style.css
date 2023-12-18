@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: lightgray;
+}
+.mainconteiner{
+    width: 100%;
+}
+.link{
+    background-color: red;
+    padding-top: 10px;
+    height: 35px;
+    border-bottom: 1px solid black;
+}
+.link a{
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+}
+.link a:hover{
+    text-decoration: none;
+    padding: 18px;
+    color: black;
+    background-color: white;
+}
+.start{
+    background-color: red;
+    height: 400px;
+}
+.start h1{
+    color: white;
+    font-size: 80   px;
+    text-align: center;
+    padding-top: 130px;
+}
+.start a{
+    text-decoration: none;
+    font-size: 25px;
+    border: 1px solid white;
+    padding: 15px;
+    color: white;
+}
+.start a:hover{
+    text-decoration: none;
+    font-size: 25px;
+    border: 1px solid white;
+    padding: 15px;
+    background-color: grey;
+    color: black;
+}
+.start p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.second{
+    height: 400px;
+}
+.one{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    width: 60%;
+}
+.imm img{
+    width: 100%;
+}
+.imm{
+    width: 20%;
+    margin-left: 20px;
+}
+.second h1{
+    margin-top: 80px;
+}
+.second p{
+    margin-top: 25px;
+}
+.last{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+.last1{
+    width: 20%;
+}
+.last2{
+    width: 60%;
+    margin-left: 30px;
+}
+.last1 img{
+    width: 100%;
+}
+.lastest{
+    background-color: grey;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lastest p{
+    font-size: 20px;
+}
+.lol{
+    height: 150px;
+}
